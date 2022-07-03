@@ -49,14 +49,6 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
         </td>
 
 <td align=”center”>
-            <a href="https://github.com/CaptainSilvaBr">
-                <img src="https://i.imgur.com/04oPnST.jpg" height="160px" width="270px">
-                    <sub>
-                        <b> Kaique Silva  </b>
-                    </sub>
-            </a>
-        </td>
-<td align=”center”>
             <a href="https://github.com/karolcoliveira">
                 <img src="https://i.imgur.com/opRMnxp.jpg" width="280px">
                     <sub>
